@@ -1,0 +1,339 @@
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+        background-color: black;
+        color: whitesmoke;
+        height: 70px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        position: sticky;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-image: linear-gradient(120deg, black 50%, wheat);
+    }
+
+    nav a {
+        text-decoration: none;
+        color: wheat;
+    }
+
+    nav a:hover {
+        color: darkorange;
+    }
+
+    nav a:first-child:hover .drop {
+        display: block;
+    }
+
+    .IM {
+        border-radius: 50px;
+    }
+
+    .container:hover .drop {
+        display: block;
+        box-shadow: inset;
+    }
+
+
+
+    .firstt {
+        background-image: url(./images/Temp.jpg);
+        background-size: cover;
+        height: 590px;
+        display: inline-block;
+        opacity: 1;
+        width: 100%;
+        /* max-height: 590px; */
+        margin: 0;
+        padding: 0;
+    }
+
+    .firsth {
+        font-size: 3rem;
+    }
+
+    .firsth {
+        animation-name: head;
+        animation-duration: 20s;
+        animation-iteration-count: infinite;
+        color: black;
+        display: flex;
+        justify-self: center;
+    }
+
+    .yes {
+        margin-top: 60px;
+    }
+
+    @keyframes head {
+        from {
+            color: red;
+        }
+
+        to {
+            color: yellow;
+        }
+
+        from {
+            color: yellow;
+        }
+
+        to {
+            color: green;
+        }
+    }
+
+    .jj {
+        justify-content: center;
+        display: flex;
+        text-decoration: solid;
+        font-size: 1.5rem;
+    }
+
+    .Services {
+        display: flex;
+        justify-content: center;
+        text-decoration: underline;
+        font-size: 1.5rem;
+        margin-top: 20px;
+    }
+
+    .col {
+        height: 530px;
+        border: 1px solid black;
+        width: 350px;
+        border-radius: 20px;
+        overflow: hidden;
+        margin-top: 20px;
+    }
+
+    .colimg {
+        border-bottom-left-radius: 30px;
+    }
+
+    .fue {
+        font-size: 2rem;
+        padding-left: 5px;
+    }
+
+    .fu {
+        font-size: 1.5rem;
+        padding-left: 5px;
+    }
+
+    .flediv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .fledivv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        margin-top: 30px;
+        margin-bottom: 80px;
+    }
+
+    .rt {
+        height: 500px;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        margin-bottom: 30px;
+    }
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+        background-color: black;
+        color: whitesmoke;
+        height: 70px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        position: sticky;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-image: linear-gradient(120deg, black 50%, wheat);
+    }
+
+    nav a {
+        text-decoration: none;
+        color: wheat;
+    }
+
+    nav a:hover {
+        color: darkorange;
+    }
+
+    nav a:first-child:hover .drop {
+        display: block;
+    }
+
+    .col{
+        border: 1px solid black;
+        width: 350px;
+        border-radius: 20px;
+        overflow: hidden;
+        height: 650px;
+        margin-bottom: 30px;
+    }
+    h1{
+        font-size: 3rem;
+        text-decoration: underline;
+        text-align: center;
+    }
+
+    .fue {
+        font-size: 2rem;
+        padding-left: 5px;
+    }
+
+    .fu {
+        font-size: 1.5rem;
+        padding-left: 5px;
+    }
+
+/* .fueltypes{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+} */
+.colimg:hover{
+    width: 360px;
+    height: 260px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* margin-bottom: 30px; */
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    background-color: black;
+    color: whitesmoke;
+    height: 70px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    position: sticky;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-image: linear-gradient(120deg, black 50%, wheat);
+}
+
+nav a {
+    text-decoration: none;
+    color: wheat;
+}
+
+nav a:hover {
+    color: darkorange;
+}
+
+nav a:first-child:hover .drop {
+    display: block;
+}
+
+.fu {
+    font-size: 2rem;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.firstt {
+    background-image: url(./images/KJ.jpg);
+    background-size: cover;
+    height: 472px;
+    display: inline-block;
+    opacity: 1;
+    width: 100%;
+    max-height: 590px;
+    margin: 0;
+    padding: 0;
+    padding-top: 90px;
+}
+
+.firsth {
+    font-size: 3rem;
+}
+
+.firsth {
+    animation-name: head;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    color: black;
+    display: flex;
+    justify-self: center;
+}
+
+.fu{
+    font-size: 1.5rem;
+    /* margin-left: 2px; */
+ }
+
+
+.mini {
+    background-image: url(./images/Temp.jpg);
+    background-size: cover;
+    height: 700px;
+    display: inline-block;
+    opacity: 1;
+    width: 100%;
+    /* max-height: 590px; */
+    margin: 0;
+    padding: 0;
+    /* width: 414px; */
+ }
+ 
+ .minih {
+    font-size: 50px;
+ }
+ 
+
+ .minih {
+    animation-name: head;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    color: black;
+    display: flex;
+    justify-self: center;
+
+ }
+ 
+ .miniyes {
+    margin-top: 150px;
+ }
+ 
+ @keyframes head {
+    from {
+        color: black;
+    }
+ 
+    to {
+        color: red;
+    }
+
+ }

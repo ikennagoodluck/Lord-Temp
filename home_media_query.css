@@ -1,0 +1,2051 @@
+@media only screen and (max-width: 790px) {
+
+   nav {
+      height: 60px;
+      background-image: -moz-linear-gradient(120deg, black 50%, wheat);
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+      gap: 50px;
+   }
+
+   .yes {
+      margin-top: 70px;
+   }
+
+
+
+   .flediv {
+      display: block;
+      justify-content: center;
+      align-items: center;
+      /* gap: 30px; */
+   }
+
+   .fledivv {
+      display: block;
+      justify-content: center;
+      align-items: center;
+      /* gap: 30px; */
+   }
+
+   .col {
+      display: inline-block;
+      margin-left: 30px;
+      height: 520px;
+      padding-bottom: 10px;
+   }
+
+   .last {
+      margin-left: 190px;
+   }
+
+   .fue {
+      font-size: 2rem;
+   }
+
+   .fu {
+      font-size: 1.5rem;
+   }
+
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 830px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 790px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+
+   nav {
+      height: 60px;
+      background-image: -moz-linear-gradient(120deg, black 50%, wheat);
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+   }
+
+   .yes {
+      margin-top: 70px;
+   }
+
+
+
+   .flediv {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* gap: 30px; */
+      margin-left: 10px;
+      /* width: 300px; */
+      /* padding-right: 5px; */
+   }
+
+   .fledivv {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* padding-right: 5px; */
+      /* gap: 30px; */
+   }
+
+   .col {
+      display: inline-block;
+      margin-left: 0px;
+      height: 550px;
+      padding-bottom: 10px;
+      width: 300px;
+   }
+
+   /* .last{ */
+   /* margin-left: 190px; */
+   /* } */
+   .fue {
+      font-size: 2rem;
+   }
+
+   .fu {
+      font-size: 1.5rem;
+   }
+
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 830px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+   nav {
+      height: 60px;
+      background-image: -moz-linear-gradient(120deg, black 50%, wheat);
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+   }
+
+
+
+   .yes {
+      margin-top: 70px;
+   }
+
+   .flediv {
+      display: block;
+      justify-self: center;
+      align-items: center;
+      /* gap: 30px; */
+   }
+
+   .fledivv {
+      display: block;
+      justify-self: center;
+      align-items: center;
+      /* gap: 30px; */
+   }
+
+   .col {
+      display: inline-block;
+      margin-left: 30px;
+      height: 550px;
+      padding-bottom: 10px;
+   }
+
+   .last {
+      margin-left: 190px;
+   }
+
+   .fue {
+      font-size: 2rem;
+   }
+
+   .fu {
+      font-size: 1.5rem;
+   }
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 830px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+@media only screen and (max-width: 680px) {
+
+   nav {
+      height: 70px;
+      background-image: -moz-linear-gradient(120deg, black 50%, wheat);
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+      gap: 10px;
+   }
+
+
+
+
+   .yes {
+      margin-top: 50px;
+   }
+
+   .flediv {
+      display: grid;
+      justify-items: center;
+      align-items: center;
+      /* gap: 30px; */
+   }
+
+   .fledivv {
+      display: grid;
+      /* justify-self: center; */
+      /* align-items: center; */
+      /* gap: 30px; */
+   }
+
+
+   .col {
+      display: inline-block;
+      margin-left: 20px;
+      height: 550px;
+      padding-bottom: 10px;
+   }
+
+   .last {
+      margin-left: 0px;
+   }
+
+   .fue {
+      font-size: 2rem;
+   }
+
+   .fu {
+      font-size: 1.5rem;
+   }
+
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 830px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+
+
+@media only screen and (max-width: 414px) {
+   html {
+      overflow-x: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .yes {
+      margin-top: 10px;
+   }
+
+   .flediv {
+      padding-right: 20px;
+   }
+
+   nav {
+      height: 70px;
+      background-image: -moz-linear-gradient(120deg, black 50%, wheat);
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+      gap: 10px;
+   }
+
+
+
+
+   .yes {
+      margin-top: 50px;
+   }
+
+   .flediv {
+      display: grid;
+      justify-items: center;
+      align-items: center;
+      /* gap: 30px; */
+      overflow-x: hidden;
+      width: 400px;
+   }
+
+   .fledivv {
+      display: grid;
+      /* justify-self: center; */
+      /* align-items: center; */
+      /* gap: 30px; */
+      overflow-x: hidden;
+      width: 400px;
+   }
+
+   .Services {
+      margin-left: -20px;
+   }
+
+   .col {
+      display: inline-block;
+      margin-left: 6px;
+      height: 550px;
+      padding-bottom: 10px;
+      width: 250px;
+   }
+
+   .last {
+      margin-left: 0px;
+   }
+
+   .fue {
+      font-size: 1.5rem;
+      margin-left: 45px;
+   }
+
+   .fu {
+      font-size: 1.3rem;
+      margin-right: 10px;
+   }
+
+   .firsth {
+      font-size: 1rem;
+   }
+
+   .firsth {
+      /* animation-name: head;
+   animation-duration: 20s;
+   animation-iteration-count: infinite; */
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .jj {
+      justify-content: center;
+      display: flex;
+      text-decoration: solid;
+      font-size: 0.7rem;
+   }
+
+
+
+
+   nav {
+      display: flex;
+      /* justify-content: center; */
+      /* align-items: center; */
+      /* gap: 100px; */
+      background-color: black;
+      color: whitesmoke;
+      height: 70px;
+      margin-bottom: 0;
+      padding-bottom: 0;
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+      background-image: linear-gradient(120deg, black 50%, wheat);
+      font: 0.5em sans-serif;
+      margin-left: 0;
+      padding: 0;
+      width: 414px;
+      overflow-x: hidden;
+   }
+
+   nav a {
+      text-decoration: none;
+      color: wheat;
+   }
+
+   nav a:hover {
+      color: darkorange;
+   }
+
+   nav a:first-child:hover .drop {
+      display: block;
+   }
+
+   .IM {
+      border-radius: 50px;
+   }
+
+   .container:hover .drop {
+      display: block;
+      box-shadow: inset;
+   }
+
+
+
+   .firstt {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 400px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .firsth {
+      font-size: 1rem;
+   }
+
+   .firsth {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .yes {
+      margin-top: 60px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+
+
+
+
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 600px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1.2rem;
+   }
+
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      /* justify-self: center; */
+      max-width: 390px;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+
+   .fut {
+      font-size: 1.5rem;
+      margin-left: 20px;
+      max-width: 350px;
+      height: 100px;
+   }
+}
+
+@media only screen and (max-width: 375px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 600px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .fu {
+      font-size: 20px;
+      min-width: 350px;
+      height: 100px;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+@media only screen and (width: 414px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 830px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .fu {
+      font-size: 20px;
+      min-width: 350px;
+      height: 100px;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+@media only screen and (width: 390px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 844px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .fu {
+      font-size: 20px;
+      min-width: 350px;
+      height: 100px;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+@media only screen and (width: 430px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 900px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 430px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 30px;
+   }
+
+   .fut {
+      font: 1rem;
+   }
+
+   .fu {
+      font-size: 1.5rem;
+      /* min-width: 350px; */
+      /* height: 100px; */
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+}
+
+
+
+@media only screen and (width: 390px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 844px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 414px;
+   }
+
+   .minih {
+      font-size: 1rem;
+   }
+
+   .fu {
+      font-size: 20px;
+      min-width: 350px;
+      height: 100px;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+}
+
+
+@media only screen and (width: 412px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 912px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 430px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 30px;
+   }
+
+   .fut {
+      font: 1rem;
+   }
+
+   .fu {
+      font-size: 1.5rem;
+      /* min-width: 350px; */
+      /* height: 100px; */
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+}
+
+@media only screen and (width: 360px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 740px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 430px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
+
+
+
+@media only screen and (width: 768px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1024px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 768px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
+
+
+@media only screen and (width: 820px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1180px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 820px;
+      overflow: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
+
+
+@media only screen and (width: 768px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1024px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 768px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
+
+
+@media only screen and (width: 1024px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1366px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 1024px;
+      overflow: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 5rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1.5rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 4rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 600px;
+   }
+}
+
+
+@media only screen and (width: 768px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1024px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 768px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
+
+
+@media only screen and (width: 912px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1369px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 912px;
+      overflow: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 5rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1.5rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 4rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 600px;
+   }
+}
+
+
+@media only screen and (width: 540px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 730px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 540px;
+      overflow: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 3rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 30px;
+   }
+
+
+   .fu {
+      font-size: 1.5rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 600px;
+   }
+}
+
+@media only screen and (width: 344px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 889px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 344px;
+      overflow: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 3rem;
+      margin-left: 20px;
+   }
+
+   /* .firstt{
+   padding-left: 1px;
+} */
+
+
+   .fu {
+      font-size: 1rem;
+      padding-left: 0;
+      padding-right: 2px;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+
+   }
+
+
+
+   .col {
+      width: 344px;
+      height: 400px;
+   }
+}
+
+
+@media only screen and (width: 853px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1280px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 853px;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
+
+
+@media only screen and (width: 1280px) {
+
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1366px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 1280px;
+      overflow: hidden;
+   }
+
+   body {
+      overflow-x: hidden;
+   }
+
+   .minih {
+      font-size: 5rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1.5rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 4rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 600px;
+   }
+}
+
+
+@media only screen and (width: 320px) {
+
+
+   nav {
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      gap: 20px;
+      background-color: black;
+      color: whitesmoke;
+      height: 70px;
+      margin-bottom: 0;
+      padding-bottom: 0;
+      position: sticky;
+      left: 0;
+      right: 0;
+      top: 0;
+      background-image: linear-gradient(120deg, black 50%, wheat);
+      padding-left: 30px;
+  }
+   .mini {
+      background-image: url(./images/Temp.jpg);
+      background-size: cover;
+      height: 1298px;
+      display: inline-block;
+      opacity: 1;
+      /* width: 100%; */
+      /* max-height: 590px; */
+      margin: 0;
+      padding: 0;
+      width: 320px;
+   }
+
+   .minih {
+      font-size: 2rem;
+      margin-left: 20px;
+   }
+
+   .firstt {
+      padding-left: 10px;
+   }
+
+
+   .fu {
+      font-size: 1rem;
+      /* width: 350px; */
+      /* height: 100px; */
+      padding-left: 0;
+   }
+
+   .minih {
+      animation-name: head;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      color: black;
+      display: flex;
+      justify-self: center;
+   }
+
+   .miniyes {
+      margin-top: 250px;
+   }
+
+   @keyframes head {
+      from {
+         color: black;
+      }
+
+      to {
+         color: red;
+      }
+
+      from {
+         color: red;
+      }
+
+      to {
+         color: black;
+      }
+   }
+
+   .fut {
+      font-size: 2rem;
+      margin-left: 20px;
+      /* max-width: 350px; */
+      /* height: 100px; */
+   }
+
+
+
+   .col {
+      width: 320px;
+      height: 500px;
+   }
+}
